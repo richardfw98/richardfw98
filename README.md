@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardfw98
-- 👀 I’m interested in business consulting and business analyst related
-- 🌱 I’m currently learning business intelligence analyst
+- 👀 I’m interested in business intelligence and analyst related
+- 🌱 I’m currently learning business intelligence analyst at Binar Academy and Data Analyst Minicourse At Revou
 - 💞️ This is my first time in github 
 - 📫 you could reach me in my email:richardfw98@gmail.com or linkedin : https://www.linkedin.com/in/richard-f-wijaya-05b50b172/
